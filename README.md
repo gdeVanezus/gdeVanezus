@@ -1,5 +1,5 @@
 <h3 align="left">Hi 👋! My name is Vanezus</h3>
-<h3 align="Right">I`m front-end, back-end dev</h3>
+<h3 align="Right">I'm front-end, back-end dev</h3>
 
 ###
 
