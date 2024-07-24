@@ -65,9 +65,10 @@
 ###
 
 <div align="right">
-  <a href="https://open.spotify.com/user/31qtjqokprd67vs7wyyanvancu2y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qtjqokprd67vs7wyyanvancu2y&count=3&unique=false" alt="Spotify recently played"  />
-  </a>
+  <a href="https://wakatime.com/@gdeVanezus" target="_blank">
+	<img src="https://github-readme-stats.vercel.app/api/wakatime?username=gdeVanezus&border_radius=5px&theme=dark&bg_color=1f1f1f&border_color=1f1f1f&icon_color=58a6ff&show_icons=true">
+</a>
+
 </div>
 
 ###
