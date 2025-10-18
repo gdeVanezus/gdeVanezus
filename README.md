@@ -69,24 +69,12 @@
 
 ###
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gdevanezus/gdevanezus/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gdevanezus/gdevanezus/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gdevanezus/gdevanezus/output/pacman-contribution-graph.svg">
-</picture>
+<img src="https://raw.githubusercontent.com/gdevanezus/gdevanezus/output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
   <img src="https://visitor-badge.laobi.icu/badge?page_id=gdevanezus.gdevanezus&"  />
-</div>
-
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31qtjqokprd67vs7wyyanvancu2y">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31qtjqokprd67vs7wyyanvancu2y&count=5" alt="Spotify recently played"  />
-  </a>
 </div>
 
 ###
