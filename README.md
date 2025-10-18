@@ -69,7 +69,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/gdevanezus/gdevanezus/output/snake.svg" alt="Snake animation" />
+<img src="http://raw.githubusercontent.com/gdeVanezus/gdeVanezus/refs/heads/output/github-snake-dark.svg" alt="Snake animation" />
 
 ###
 
