@@ -63,8 +63,8 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=gdevanezus&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="100" alt="streak graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=gdevanezus&show_icons=true&theme=dark" height="100" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=gdevanezus&locale=en&mode=daily&theme=dark&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api?username=gdevanezus&show_icons=true&theme=dark&hide_border=true" height="150" alt="stats graph"  />
 </div>
 
 ###
